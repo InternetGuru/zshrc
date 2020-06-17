@@ -2,7 +2,7 @@ export ZSH="/usr/local/share/.oh-my-zsh"
 # set custom theme
 ZSH_THEME="babun"
 # run only syntax highlight plugin
-plugins=(zsh-syntax-highlighting)
+plugins=(zsh-syntax-highlighting ssh-agent)
 # run oh-my-zsh
 source $ZSH/oh-my-zsh.sh
 # set lang
